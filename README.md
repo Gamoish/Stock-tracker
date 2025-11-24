@@ -8,14 +8,6 @@ Track global equities with **live price refresh**, technical indicators (SMA & E
 
 ---
 
-### 🚀 Live. Simple. Clean. Powerful.
-
-![Stock Tracker Banner](https://via.placeholder.com/1100x250?text=Stock+Market+Tracker)
-
-</div>
-
----
-
 ## 🏷️ Overview
 
 Whether you're a trader, investor, student, or tech enthusiast — this tool gives you a clean and interactive interface to track stocks in real time.  
@@ -63,26 +55,6 @@ streamlit run app.py
 ├── app.py                # Main application file
 ├── requirements.txt      # Python dependencies
 └── README.md             # Documentation
-
-
-
-
-🖼️ Screenshots
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/1.png" width="45%">
-  <img src="screenshots/2.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="screenshots/3.png" width="45%">
-  <img src="screenshots/4.png" width="45%">
-</p>
-
-
-
 
 
 Supported Markets
