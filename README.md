@@ -1,4 +1,4 @@
-<img width="1899" height="1120" alt="image" src="https://github.com/user-attachments/assets/7661fa65-55d4-4150-ab0c-d7c951b7ee5e" /><div align="center">
+
 
 # 📈 Live Stock Market Tracker
 
@@ -68,10 +68,21 @@ streamlit run app.py
 
 
 🖼️ Screenshots
-<img width="1893" height="1180" alt="image" src="https://github.com/user-attachments/assets/58316ecb-2512-41dc-8645-66b14d5c683f" />
-<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/1616c9e5-67a7-457a-8d60-143e66325dff" />
-<img width="1904" height="1113" alt="image" src="https://github.com/user-attachments/assets/212499d0-fba0-4455-a678-0ec9792d96d2" />
-<img width="1899" height="1120" alt="image" src="https://github.com/user-attachments/assets/f964c51c-3b27-4864-a7b6-fac727fb53e4" />
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" width="45%">
+  <img src="screenshots/2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/3.png" width="45%">
+  <img src="screenshots/4.png" width="45%">
+</p>
+
+
+
 
 
 Supported Markets
