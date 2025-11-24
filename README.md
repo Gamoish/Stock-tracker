@@ -88,9 +88,6 @@ If you have an idea to improve charts, add indicators, or UI features — open a
 
 This project is licensed under the MIT License — free to use and modify.
 
-<div align="center">
 ⭐ If this project helped you, consider giving it a star — it helps the project grow.
-
 Made with ❤️ using Python.
 
-</div> ```
